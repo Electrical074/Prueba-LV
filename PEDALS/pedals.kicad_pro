@@ -649,7 +649,7 @@
     "meta": {
       "version": 1
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "empty.kicad_wks",
     "plot_directory": "",
     "reuse_designators": true,
     "subpart_first_id": 65,
@@ -657,14 +657,27 @@
     "top_level_sheets": [
       {
         "filename": "pedals.kicad_sch",
-        "name": "pedals",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "name": "",
+        "uuid": "b745d91a-3d5f-4ec8-a78f-09b7a53304c7"
       }
     ],
     "used_designators": "",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "fdd406ef-fea5-4d1e-bdb2-ba59a4f91f74",
+      "IN_OUT copy"
+    ],
+    [
+      "b8605f10-d20c-4a26-8737-317a9fcb78fd",
+      "Logic copy"
+    ],
+    [
+      "b745d91a-3d5f-4ec8-a78f-09b7a53304c7",
+      ""
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
